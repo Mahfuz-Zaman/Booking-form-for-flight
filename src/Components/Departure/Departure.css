@@ -1,0 +1,14 @@
+.datepicker{
+    width: 210px;
+    margin-bottom: 10px;
+    height: 55px;
+    border: none;
+    background-color: rgba(59,130,246,0.05);
+    border-bottom: 1px solid gray;
+}
+
+.datepicker:focus{
+    outline: none;
+    border: 5px solid rgba(59,130,246,0.5);
+}
+
